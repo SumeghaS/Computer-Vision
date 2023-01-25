@@ -6,8 +6,6 @@
 -- Operating System: MacOS IDE: XCode
 
 -- Instructions for executables have been mentioned in the .cpp files
-	
--- Time travel days used: 1
 
 -- Extensions are a part of other functions thus could not be mentioned separately in the header or main files. I have pursued the following extensions:
 
